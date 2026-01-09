@@ -1,0 +1,7 @@
+{
+  "name": "KubeAgent",
+  "description": "An intelligent Kubernetes agent that translates natural language to kubectl commands, simulates execution, and provides real-time cluster visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
